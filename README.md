@@ -45,3 +45,8 @@ Snowpipe is Snowflake's serverless, cloud-native data ingestion service. It faci
 - **Snowpipe**: Automated data ingestion service for Snowflake.
 
 
+## **Reference**
+
+- https://datavidhya.com/all-course/:Data%20Warehouse%20for%20Data%20Engineering%20with%20Snowflake
+
+
